@@ -1,5 +1,7 @@
-## Hi there, my name is Thamyres 👋
+<h1 align="center">Hi there, my name is Thamyres 👋</h1>
+<h3 align="center">This is my Data Science and Analytics repository</h3>
 
+<h2 align="left">🗨 About me:</h2>
 
 - 🌱 I’m currently learning Python, SQL, Statistics, EDA, Machine Learning, Linear Algebra
 - 👯 I’m looking to became a Data Scientist
